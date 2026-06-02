@@ -1,0 +1,3 @@
+display_name: LFWin Payment
+short_description: 对接 LFWin 聚合支付接口的 Agent 操作指南
+default_prompt: 使用 LFWin Payment skill 帮我对接聚合支付接口，包括签名、下单、查单、退款、异步通知和分账。
