@@ -31,10 +31,6 @@ git clone git@github.com:litsen/lfwin-payment-skill.git $env:USERPROFILE\.codex\
 使用 LFWin Payment skill 帮我实现下单、查单、退款和异步通知验签。
 ```
 
-## 发布
-
-不需要额外维护 `RELEASE.md`。建议使用 Git tag 和 GitHub Releases 管理版本，例如 `v0.1.0`、`v0.2.0`。
-
 ## License
 
 MIT
